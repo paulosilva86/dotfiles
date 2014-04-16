@@ -1,0 +1,9 @@
+[user]
+  name = Paulo Silva
+  email = paulosilva86@gmail.com
+[alias]
+  s = status -s
+  b = branch
+  d = diff
+[color]
+  ui = true
