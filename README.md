@@ -1,4 +1,4 @@
 dotfiles
 ========
 
-Configuration files.
+Git, ruby, osx, sublime, etc.
