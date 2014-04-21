@@ -1,4 +1,5 @@
-dotfiles
-========
+# Paulo's Dot Files #
 
-Git, ruby, osx, sublime, etc.
+## Sublime Text 2 ##
+
+* Install Package Control: https://sublime.wbond.net/installation
