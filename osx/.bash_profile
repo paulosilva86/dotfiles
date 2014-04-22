@@ -1,4 +1,6 @@
 export PATH="$HOME/.rbenv/bin:$PATH"
+export PATH=/usr/local/bin:$PATH
+
 export CLICOLOR=1
 export LSCOLORS=GxFxCxDxBxegedabagaced
 export GREEN="\[\033[0;32m\]"
