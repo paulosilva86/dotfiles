@@ -1,0 +1,24 @@
+// Place your settings in this file to overwrite the default settings
+{
+  // The number of spaces a tab is equal to.
+  "editor.tabSize": 2,
+  "window.zoomLevel": 2,
+  "editor.minimap.enabled": false,
+  "breadcrumbs.enabled": false,
+  "editor.renderControlCharacters": false,
+  "editor.renderWhitespace": "none",
+  "workbench.statusBar.visible": false,
+  "workbench.activityBar.visible": false,
+  "workbench.colorTheme": "RailsCasts",
+  "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "prettier.singleQuote": true,
+  "[javascriptreact]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "terminal.integrated.shell.osx": "/bin/bash",
+  "[jsonc]": {
+      "editor.defaultFormatter": "vscode.json-language-features"
+  }
+}

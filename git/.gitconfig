@@ -5,5 +5,13 @@
   s = status -s
   b = branch
   d = diff
+  amend = commit --amend --no-edit
+  unstage = reset
+  uncommit = reset --soft HEAD^
+  slog = log --oneline --decorate --graph --all
 [color]
   ui = true
+[core]
+  editor = code -w
+[commit]
+  template = ~/.gitmessage

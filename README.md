@@ -1,7 +1,8 @@
 # Paulo's Dot Files #
 
-## Sublime Text 2 ##
+## Visual Studio Code Extensions ##
 
-* Install Package Control: https://sublime.wbond.net/installation
-* Launch from Terminal: https://gist.github.com/olivierlacan/1195304
-* TextMate Style ERB Block: https://github.com/eddorre/SublimeERB
+* Prettier - Code formatter (esbenp.prettier-vscode)
+* RailsCasts (mrded.railscasts)
+* Ruby (rebornix.ruby)
+* Ruby Solargraph (castwide.solargraph)

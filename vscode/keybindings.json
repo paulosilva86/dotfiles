@@ -1,0 +1,45 @@
+// Place your key bindings in this file to override the defaultsauto[]
+[
+  {
+    "key": "cmd+r",
+    "command": "workbench.action.gotoSymbol"
+  },
+  {
+    "key": "shift+cmd+o",
+    "command": "-workbench.action.gotoSymbol"
+  },
+  // Toggle between terminal and editor focus
+  {
+    "key": "cmd+h",
+    "command": "workbench.action.terminal.focus"
+  },
+  {
+    "key": "cmd+h",
+    "command": "workbench.action.focusActiveEditorGroup",
+    "when": "terminalFocus"
+  },
+  {
+    "key": "alt+tab",
+    "command": "workbench.action.openRecent"
+  },
+  {
+    "key": "alt+tab",
+    "command": "workbench.action.quickOpenNavigateNextInRecentFilesPicker",
+    "when": "inQuickOpen && inRecentFilesPicker"
+  },
+  {
+    "key": "ctrl+r",
+    "command": "-workbench.action.quickOpenNavigateNextInRecentFilesPicker",
+    "when": "inQuickOpen && inRecentFilesPicker"
+  },
+  {
+    "key": "ctrl+shift+[Period]",
+    "command": "erb.toggleTags",
+    "when": "editorTextFocus && editorLangId == 'erb'"
+  },
+  {
+    "key": "ctrl+[Quote]",
+    "command": "-erb.toggleTags",
+    "when": "editorTextFocus && editorLangId == 'erb'"
+  }
+]
