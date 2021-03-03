@@ -6,3 +6,4 @@
 * RailsCasts (mrded.railscasts)
 * Ruby (rebornix.ruby)
 * Ruby Solargraph (castwide.solargraph)
+* Simple Ruby ERB (vortizhe.simple-ruby-erb)
