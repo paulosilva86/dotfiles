@@ -35,11 +35,6 @@
   {
     "key": "ctrl+shift+[Period]",
     "command": "erb.toggleTags",
-    "when": "editorTextFocus && editorLangId == 'erb'"
-  },
-  {
-    "key": "ctrl+[Quote]",
-    "command": "-erb.toggleTags",
-    "when": "editorTextFocus && editorLangId == 'erb'"
+    "when": "editorTextFocus && editorLangId == 'html.erb'"
   }
 ]
