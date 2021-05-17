@@ -5,6 +5,7 @@
   s = status -s
   b = branch
   d = diff
+  rename = branch -m
   amend = commit --amend --no-edit
   unstage = reset
   uncommit = reset --soft HEAD^
